@@ -85,6 +85,9 @@ A structured star schema was implemented:
 
 This model enabled efficient filtering, accurate aggregations, and seamless time-based analysis.
 
+![Bank_Data Modelling](https://github.com/R887645/Bank-Marketing-Analysis/blob/main/Bank%20Data%20Modelling.png?raw=true)
+
+
 ---
 
 ## DAX Measures Implemented
@@ -105,6 +108,9 @@ This model enabled efficient filtering, accurate aggregations, and seamless time
 7. Previous-Month Subscriptions
 8. Previous-Year Subscriptions
 
+![Bank_DAX_Measure](https://github.com/R887645/Bank-Marketing-Analysis/blob/main/Time%20intelligence%20DAX_bank.png?raw=true)  ![Bank_DAX_Measure](https://github.com/R887645/Bank-Marketing-Analysis/blob/main/Anchor%20measure_bank.png?raw=true)
+
+
 
 These measures powered KPI cards, trend analysis, and comparative insights across the dashboard.
 
@@ -121,6 +127,10 @@ Before building the report, a structured wireframe was created in PowerPoint to 
 - Chart selection  
 - Navigation flow  
 - User interaction design  
+
+![Bank_Wireframe](https://github.com/R887645/Bank-Marketing-Analysis/blob/main/2026_%20Dashboard_Wireframes.png?raw=true)
+![Bank_Wireframe](https://github.com/R887645/Bank-Marketing-Analysis/blob/main/2026_%20Dashboard_Wireframes_2.png?raw=true)
+
 
 This approach ensured a business-focused and uncluttered final dashboard.
 
@@ -140,6 +150,8 @@ Key analytical components include:
 - Conversion analysis by duration  
 - Outcome distribution  
 - Performance across multiple years 
+
+![Bank_campaign_performance](https://github.com/R887645/Bank-Marketing-Analysis/blob/main/Campaign%20Performance.png?raw=true)
 
 **Strategic Insights**
 
@@ -170,11 +182,14 @@ Key analyses include:
 - Job category performance  
 - Scatter plot analysis of balance vs engagement  
 
+![Bank_client_segmentation](https://github.com/R887645/Bank-Marketing-Analysis/blob/main/Clients%20segmentation%20Insights.png?raw=true)
+
+
 **Strategic Insights**
 
 - Marital status analysis revealed that married clients led with 221 subscriptions, followed by singles and divorced clients.
 
-- Education level analysis showed that secondary and tertiary education groups dominated subscriptions, while primary and unknown categories lagged behind.
+- Education level analysis showed that secondary and tertiary education groups dominated subscriptions, while primary and unknown categories lagged.
 
 - Balance segmentation provided critical strategic insight: although the low balance group had the highest subscription count (269), the high balance group contributed the most monetary value (€3.0M).
 
@@ -187,8 +202,11 @@ Key analyses include:
 - Home page created for flexibility
 - Year and job category slicers across both pages
 - Bookmark-based reset functionality across the two pages
-- Page navigation buttons acoss both pages 
+- Page navigation buttons across both pages 
 - Dynamic KPIs and visuals  
+![Bank_Data Modelling](https://github.com/R887645/Bank-Marketing-Analysis/blob/main/Bank_Bookmark.png?raw=true)
+
+**[View the Full Interactive Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiNTYzZmMxZGMtNTI4Ni00MDI2LWJjNGItNmJmY2FiMDk3YTk2IiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
 
 ---
 
