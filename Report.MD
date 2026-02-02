@@ -260,5 +260,4 @@ I am open to collaborating on projects where data storytelling, campaign analysi
 ---
 
 ### Author  
-(Abdu-Azeez Rofiah Kehinde) 
-Marketing Data Analyst | Business Intelligence Professional | [LinkedIn](https://www.linkedin.com/in/rofiah-abdul-azeez/) 
+Abdu-Azeez Rofiah Kehinde| Your Marketing, Ecommerce & Sales Data Analyst | Business Intelligence Professional | [LinkedIn](https://www.linkedin.com/in/rofiah-abdul-azeez/) 
